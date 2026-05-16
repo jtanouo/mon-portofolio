@@ -1,0 +1,16 @@
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers de l'éditeur
+.vscode/
+.idea/
+
+# Fichiers sensibles
+.env
+*.key
+secrets.txt
+
+# Logs et temporaires
+*.log
+tmp/
